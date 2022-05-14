@@ -1,5 +1,6 @@
 package Rahul_Udemy;
 
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 public class Test5 {
@@ -15,6 +16,7 @@ public class Test5 {
 	//Appium	
        System.out.println("Mobileloginhome");
 	}
+	@AfterTest
  public void LoginAPIhomeLoan() {
 	 //Rest API Automation
 System.out.println("APIlogionhome");

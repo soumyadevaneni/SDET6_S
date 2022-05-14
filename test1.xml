@@ -11,6 +11,7 @@
        </class>
       <class name="Rahul_Udemy.Test2"/>
       <class name="Rahul_Udemy.Test5"/>
+      <class name="Rahul_Udemy.Annotations"/>
     </classes>
   </test> 
   <test name="Car Loan">
@@ -18,7 +19,7 @@
   
   <class name="Rahul_Udemy.Test3">
         <methods> 
-             <exclude name="API.* "></exclude>
+             <exclude name="Mobile.* "></exclude>
         </methods>
         
   
